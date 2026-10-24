@@ -1,0 +1,6 @@
+target/
+build/
+kec_academic.db
+kec_academic.db-shm
+kec_academic.db-wal
+*.class
